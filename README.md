@@ -36,22 +36,20 @@
 <hr>
 
  <h3> Tech Stack </h3>
-<strong> 1. Bahasa Pemrograman</strong> <br>
+<strong> 1. Programming Languages </strong> <br>
 <ul>
   <li><strong>Python</strong> 🐍<br>Description: Used for backend development, data analysis, and automation scripts.</li>
   <li><strong>JavaScript</strong> 🌐<br>Description: Primarily used for building interactive websites and front-end development.</li>
   <li><strong>PHP</strong> 📜<br>Description: Used for building dynamic websites and server-side scripting.</li>
 </ul>
 
-### 2. Tools & Teknologi
-- Git & GitHub
-- Node.js
-- MongoDB
-
-### 3. Soft Skills
-- Kepemimpinan
-- Komunikasi Efektif
-- Kerja Tim
+<strong> 2. Tools </strong>
+<ul>
+  <li><strong>XAMPP </strong> 💾<br>Description: XAMPP is a simple, all-in-one solution for setting up a local web development environment, making it easy to develop, test, and manage web applications.</li>
+  <li><strong>Visual Studio Code </strong> 🖥️<br>Description: A lightweight but powerful code editor that supports various programming languages and frameworks.</li>
+  <li><strong>Figma</strong> 🎨<br>Description: web-based design tool used for creating user interfaces, prototypes, and collaborative design work. It allows real-time collaboration, making it easy for teams to work together on UI/UX designs, wireframes, and prototypes, all within a single platform.</li>
+</ul>
+<hr>
 
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
