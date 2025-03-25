@@ -38,9 +38,9 @@
  <h3> Tech Stack </h3>
 <strong> 1. Bahasa Pemrograman</strong> <br>
 <ul>
-  <li><strong>Python</strong> 🐍<br>Description: Used for backend development, data analysis, and automation scripts.<br>🗓️ <strong>2021 - Present</strong></li>
-  <li><strong>JavaScript</strong> 🌐<br>Description: Primarily used for building interactive websites and front-end development.<br>🗓️ <strong>2022 - Present</strong></li>
-  <li><strong>PHP</strong> 📜<br>Description: Used for building dynamic websites and server-side scripting.<br>🗓️ <strong>2023 - Present</strong></li>
+  <li><strong>Python</strong> 🐍<br>Description: Used for backend development, data analysis, and automation scripts.</li>
+  <li><strong>JavaScript</strong> 🌐<br>Description: Primarily used for building interactive websites and front-end development.</li>
+  <li><strong>PHP</strong> 📜<br>Description: Used for building dynamic websites and server-side scripting.</li>
 </ul>
 
 ### 2. Tools & Teknologi
