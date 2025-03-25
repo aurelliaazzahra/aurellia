@@ -1,15 +1,13 @@
 # AURELLIA AZZAHRA PUTRI HUDA
 
-<div style="display: flex; align-items: center;">
+div style="display: flex; align-items: center;">
   <!-- Foto Profil -->
   <img src="https://github.com/aurelliaazzahra.png" alt="Foto Profil" style="border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-right: 20px;">
 
   <!-- Deskripsi Perkenalan Diri -->
   <div>
-    <p>Hello, let me introduce myself. I am Aurellia Azzahra Putri Huda, a graduate of SMK Negeri 1 Batam majoring in Computer and Network Engineering. There, I started studying since 2021 and finished my school in 2024. During my time at SMK, I was heavily involved in various projects related to information technology, from building computer networks, managing servers, to studying network security and basic programming.
-
-Now, I am continuing my studies at the Batam State Polytechnic, majoring in Informatics, a study program in Software Engineering Technology. I am interested in continuing to hone my skills in the world of software development and technology.
-</p>
+    <p>Hello, let me introduce myself. I am Aurellia Azzahra Putri Huda, a graduate of SMK Negeri 1 Batam majoring in Computer and Network Engineering. There, I started studying since 2021 and finished my school in 2024. During my time at SMK, I was heavily involved in various projects related to information technology, from building computer networks, managing servers, to studying network security and basic programming.</p>
+    <p>Now, I am continuing my studies at the Batam State Polytechnic, majoring in Informatics, a study program in Software Engineering Technology. I am interested in continuing to hone my skills in the world of software development and technology.</p>
   </div>
 </div>
 
