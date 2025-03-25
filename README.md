@@ -11,8 +11,8 @@
 
 <h3> 📚 Educational background 🎓</h3>
 <ul>
-  <li><strong>SMK Negeri 1 Batam</strong> 🏫<br>Major: <strong>Computer and Network Engineering</strong> 💻<br>🗓️ <strong>2021 - 2024</strong></li>
-  <li><strong>Batam State Polytechnic</strong> 🎓<br>Major: <strong>Informatics - Software Engineering Technology</strong> 💻<br>🗓️ <strong>2024 - Present</strong></li>
+  <li><strong>🏫 SMK Negeri 1 Batam</strong> <br><strong>Computer and Network Engineering</strong> 💻<br>🗓️ <strong>2021 - 2024</strong></li>
+  <li><strong>🎓 Batam State Polytechnic</strong> <br><strong>Informatics - Software Engineering Technology</strong> 💻<br>🗓️ <strong>2024 - Present</strong></li>
 </ul>
 
 <h3>What if you like my work? 🤩</h3>
