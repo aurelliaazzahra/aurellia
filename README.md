@@ -40,5 +40,5 @@
 <hr>
 
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/aurelliaazzahra/aurellia/blob/main/th%20(6).jpg" width="40" /></a>
-<a href="https://github.com/ashutosh1919"><img src="https://github.com/aurelliaazzahra/aurellia/blob/main/th%20(7).jpg" width="40" /></a>
+<a href="https://github.com/aurelliaazzahra"><img src="https://github.com/aurelliaazzahra/aurellia/blob/main/th%20(7).jpg" width="40" /></a>
 <a href="azzahraputri553@gmail.com"><img src="https://github.com/aurelliaazzahra/aurellia/blob/main/th%20(8).jpg" width="40" /></a>
