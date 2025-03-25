@@ -1,11 +1,6 @@
 <h1>AURELLIA AZZAHRA PUTRI HUDA 
 
-<img align='left' src="https://github.com/aurelliaazzahra.png" width="230" />
-
-<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="https://www.facebook.com/laymanbrother.19/"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/facebook.png" width="40" /></a>
-<a href="mailto:ashutoshhathidara98@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<img align='left' src="https://github.com/aurelliaazzahra.png?size=200" width="230" />
 
 <h3>What I do? 👨‍💻</h3>
 <details>
