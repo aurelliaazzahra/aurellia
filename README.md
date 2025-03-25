@@ -17,7 +17,7 @@
 <hr>
 
 <h3> 🛠️ Project history </h3>
-<img align='center' src="https://github.com/aurelliaazzahra/aurellia/blob/main/WhatsApp%20Image%202025-03-25%20at%2020.57.50_038acb84.jpg?size=100" />
+<img align='center' src="https://github.com/aurelliaazzahra/aurellia/blob/main/WhatsApp%20Image%202025-03-25%20at%2020.57.50_038acb84.jpg?size=40" />
 <ul>
   <li><strong> MHSP Aplication </strong> (mahasiswa portofolio) <br>Description: Student Portfolio Application is an app designed to showcase a student's work, projects, and academic achievements, such as resumes, portfolios, and certificates, accessible to potential employers or educational institutions.</li>
 </ul>
