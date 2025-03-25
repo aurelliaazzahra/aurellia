@@ -16,7 +16,7 @@
 </ul>
 <hr>
 
-<h3>What if you like my work? 🤩</h3>
+<h3> 🛠️ Project history </h3>
 <ul>
   <li>You can donate 💰 me 1 USD on my <a href="https://www.patreon.com/devsense">patreon profile</a>.</li>
   <li>Subscribe to my <a href="https://www.youtube.com/channel/UC_amoXmmxSY9KusoDczDTXQ">YouTube Channel</a>.</li>
