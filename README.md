@@ -1,6 +1,6 @@
 <h1>AURELLIA AZZAHRA PUTRI HUDA 
 
-<img align='left' src="https://github.com/aurelliaazzahra.png?size=200" width="230" height="30px" />
+<img align='left' src="https://github.com/aurelliaazzahra.png?size=200" />
 
 <h3>What I do? 👨‍💻</h3>
 <details>
