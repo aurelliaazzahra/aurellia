@@ -17,7 +17,7 @@
 <hr>
 
 <h3> 🛠️ Project history </h3>
-<img align='center' src="https://github.com/aurelliaazzahra/aurellia/blob/main/WhatsApp%20Image%202025-03-25%20at%2020.57.50_038acb84.jpg?size=200" />
+<img align='center' src="https://github.com/aurelliaazzahra/aurellia/blob/main/WhatsApp%20Image%202025-03-25%20at%2020.57.50_038acb84.jpg?size=100" />
 <ul>
   <li><strong> MHSP Aplication </strong> (mahasiswa portofolio) <br>Description: Student Portfolio Application is an app designed to showcase a student's work, projects, and academic achievements, such as resumes, portfolios, and certificates, accessible to potential employers or educational institutions.</li>
 </ul>
@@ -39,6 +39,6 @@
 </ul>
 <hr>
 
-<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
-<a href="https://github.com/ashutosh1919"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/github-logo.png" width="40" /></a>
-<a href="azzahraputri553@gmail.com"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/google-plus.png" width="40" /></a>
+<a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/aurelliaazzahra/aurellia/blob/main/th%20(6).jpg" width="40" /></a>
+<a href="https://github.com/ashutosh1919"><img src="https://github.com/aurelliaazzahra/aurellia/blob/main/th%20(7).jpg" width="40" /></a>
+<a href="azzahraputri553@gmail.com"><img src="https://github.com/aurelliaazzahra/aurellia/blob/main/th%20(8).jpg" width="40" /></a>
