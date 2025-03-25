@@ -39,7 +39,7 @@
 <hr>
 
  <h3> Tech Stack </h3>
-### 1. Bahasa Pemrograman
+ <li><strong>Bahasa Pemrograman</strong></li>
 - Python
 - JavaScript
 - Java
