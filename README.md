@@ -1,9 +1,11 @@
-# Portofolio Nama Anda
+# AURELLIA AZZAHRA PUTRI HUDA
 
-Selamat datang di portofolio saya! Di sini Anda akan menemukan informasi tentang diri saya, pendidikan, proyek yang saya kerjakan, serta keterampilan yang saya miliki.
+![Profile Picture](https://github.com/aurelliaazzahra.png?size=200)
 
 ## Tentang Saya
-Nama saya [Nama Anda], seorang mahasiswa Teknik Informatika di [Universitas XYZ]. Saya berfokus pada pengembangan perangkat lunak, khususnya dalam pengembangan aplikasi web dan kecerdasan buatan.
+Hello, let me introduce myself. I am Aurellia Azzahra Putri Huda, a graduate of SMK Negeri 1 Batam majoring in Computer and Network Engineering. There, I started studying since 2021 and finished my school in 2024. During my time at SMK, I was heavily involved in various projects related to information technology, from building computer networks, managing servers, to studying network security and basic programming.
+
+Now, I am continuing my studies at the Batam State Polytechnic, majoring in Informatics, a study program in Software Engineering Technology. I am interested in continuing to hone my skills in the world of software development and technology.
 
 - **Email**: [email@example.com](mailto:email@example.com)
 - **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/username)
