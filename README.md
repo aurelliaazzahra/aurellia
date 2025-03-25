@@ -17,7 +17,7 @@
 <hr>
 
 <h3> 🛠️ Project history </h3>
-<img src="https://github.com/aurelliaazzahra/aurellia/blob/main/WhatsApp%20Image%202025-03-25%20at%2020.57.50_038acb84.jpg />
+<img src="https://github.com/aurelliaazzahra/aurellia/blob/main/WhatsApp%20Image%202025-03-25%20at%2020.57.50_038acb84.jpg?size=200 />
  
 <ul>
   <li><strong> MHSP Aplication </strong> (mahasiswa portofolio) <br>Description: MHSP application is an application designed to display a collection of works, projects, or experiences of a person in one place. This application is more intended for students who are useful for loading information about what has been done by the student.</li>
