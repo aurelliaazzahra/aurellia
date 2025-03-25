@@ -1,4 +1,5 @@
 <h1>AURELLIA AZZAHRA PUTRI HUDA 
+  ---
 <img align='right' src="https://github.com/aurelliaazzahra.png" width="230" />
 
 <a href="https://www.linkedin.com/in/ashutosh-hathidara-88710b138"><img src="https://github.com/ashutosh1919/ashutosh1919/blob/master/logos/linkedin.png" width="40" /></a>
