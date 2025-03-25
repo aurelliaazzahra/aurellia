@@ -10,8 +10,8 @@
 <hr>
 
 <h3> 📚 Educational background 🎓</h3>
-<h4> 🏛️ Politeknik Negeri Batam (2024 - Now)</h4>
-<h4> 🏫SMK Negeri 1 Batam (2021 - 2024)</h4>
+🏛️ Politeknik Negeri Batam (2024 - Now)
+🏫SMK Negeri 1 Batam (2021 - 2024)
 
 <h3>What if you like my work? 🤩</h3>
 <ul>
