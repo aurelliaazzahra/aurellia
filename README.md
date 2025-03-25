@@ -39,10 +39,10 @@
 <hr>
 
  <h3> Tech Stack </h3>
- <li><strong> Bahasa Pemrograman</strong></li>
-1. 🐍 Python <br>
-2. 🌐 JavaScript <br>
-3. 📜 PHP <br>
+<strong> Bahasa Pemrograman</strong>
+🐍 Python <br>
+🌐 JavaScript <br>
+📜 PHP <br>
 
 ### 2. Tools & Teknologi
 - Git & GitHub
