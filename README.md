@@ -4,51 +4,11 @@
 
 <img align='left' src="https://github.com/aurelliaazzahra.png?size=200" />
 
-<h3>What I do? 👨‍💻</h3>
-<details>
-<summary>Data Scientist 📊</summary>
-<ul>
-  <li><a href="https://github.com/ashutosh1919/ml-data-bot">ml-data-bot</a></li>
-  <li><a href="https://github.com/dsc-iiitdmk/Pick-Parser">Pick-Parser</a></li>
-  <li><a href="https://github.com/ashutosh1919/Stock-Prediction-using-LSTM">Stock-Prediction-using-LSTM</a></li>
-  <li><a href="https://github.com/ashutosh1919/bert_classifier">bert-classifier</a></li>
-  <li><a href="https://github.com/ashutosh1919/docker-ml-tutorial">docker-ml-tutorial</li>
-  <li><a href="https://github.com/ashutosh1919/FaceInterpolation">face-interpolation</a></li>
-  <li><a href="https://github.com/ashutosh1919/NQA_tf2">natural-question-answer-ai</a></li>
-  <li>Many more on and out of Github...</li>
-</ul>
-</details>
-<details>
-<summary>Full Stack Developer 🍥</summary>
-  <ul>
-    <li><a href="https://github.com/ashutosh1919/masterPortfolio">masterPortfolio</a></li>
-    <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
-    <li><a href="https://github.com/ashutosh1919/neurostack">neurostack</a></li>
-    <li><a href="https://github.com/ashutosh1919/Full_Stack_Web_Development_Course">Full-Stack-Web-Development-Course</a></li>
-    <li>Many more on and out of Github...</li>
-  </ul>
-</details>
-<details>
-  <summary>Associate Artificial Intelligence Engineer at <a href="https://www.legatohealth.com/">Legato</a> 🤖</summary>
-  <ul>
-    <li>Working on core AI products to simplify healthcare system at scale.</li>
-    <li>Applying AI on different large problems in the field of Oncology, Process Improvement and Rapid Engineeing.</li>
-  </ul>
-</details>
-<details>
-<summary>Community Influencer 👁️‍🗨️</summary>
-<ul>
-  <li><a href="https://github.com/ashutosh1919/truvisory">truvisory</a></li>
-  <li>Join Me on LinkedIn to see my daily posts.</li>
-</ul>
-</details>
-<details>
-<summary>Opensource Contributor 📝</summary>
-  <ul>
-    <li>You can get detailed information of my contributions <a href="https://ashutoshhathidara.com/#/opensource">here</a>.</li>
-    <li>You can also scroll down and get the information on my <a href="https://github.com/ashutosh1919">github profile</a>.</li>
-  </ul>
-</details>
+<h3>About Me 👨‍💻</h3>
+  Hello, let me introduce myself. I am Aurellia Azzahra Putri Huda, a graduate of SMK Negeri 1 Batam majoring in Computer and Network Engineering. There, I started studying since 2021 and finished my school in 2024. During my time at SMK, I was heavily involved in various projects related to information technology, from building computer networks, managing servers, to studying network security and basic programming.
+
+    Now, I am continuing my studies at the Batam State Polytechnic, majoring in Informatics, a study program in Software Engineering Technology. I am interested in continuing to hone my skills in the world of software development and technology.
+
 
 <h3>The Questions You May Have 😕</h3>
 <details>
