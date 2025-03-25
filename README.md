@@ -17,22 +17,10 @@
 <hr>
 
 <h3> 🛠️ Project history </h3>
+<img align='center' src="https://github.com/aurelliaazzahra.png?size=200" />
 <ul>
-  
+  <li><strong> MHSP Aplication </strong> (mahasiswa portofolio) <br>Description: Student Portfolio Application is an app designed to showcase a student's work, projects, and academic achievements, such as resumes, portfolios, and certificates, accessible to potential employers or educational institutions.</li>
 </ul>
-
-
-## Proyek yang Dikerjakan
-### 1. Proyek PBL - Aplikasi Pengelolaan Tugas
-- **Deskripsi**: Aplikasi berbasis web untuk mengelola tugas.
-- **Teknologi**: HTML, CSS, JavaScript, Node.js
-- **Repositori**: [Link GitHub](https://github.com/username/project)
-
-### 2. Proyek Akhir - Sistem Pemesanan Makanan Online
-- **Deskripsi**: Sistem e-commerce untuk pemesanan makanan online.
-- **Teknologi**: React, Node.js, MongoDB
-- **Repositori**: [Link GitHub](https://github.com/username/project)
-
 <hr>
 
  <h3> Tech Stack </h3>
