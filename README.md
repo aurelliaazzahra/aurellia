@@ -36,7 +36,9 @@
 - **Teknologi**: React, Node.js, MongoDB
 - **Repositori**: [Link GitHub](https://github.com/username/project)
 
-## Keterampilan
+<hr>
+
+ <h3> Tech Stack </h3>
 ### 1. Bahasa Pemrograman
 - Python
 - JavaScript
